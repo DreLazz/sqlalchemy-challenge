@@ -1,4 +1,4 @@
-# SQLalchemy toolkit
+# import dependencies 
 from flask import Flask, jsonify
 import datetime as dt
 import numpy as np
